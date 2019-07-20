@@ -45,6 +45,10 @@ header {
   }
 }
 
+.civic-nav {
+  background-color: #C6CCCF;
+}
+
 .civic-nav .nav-item {
   background-color: #464646;
   margin-right: 5px;
